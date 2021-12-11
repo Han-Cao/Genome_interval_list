@@ -11,7 +11,7 @@ Interval list used for sequencing analysis
 
 **wgs_calling_regions.hg38.interval_list**: downloaded from gatk resource bundle (https://console.cloud.google.com/storage/browser/genomics-public-data/resources/broad/hg38/v0/)
 
-
+<br/>
 
 
 
@@ -21,7 +21,7 @@ Interval list used for sequencing analysis
 
 **wgs_analysis_intervals_hg19**: converted from wgs_calling_regions.hg19.interval_list
 
-
+<br/>
 
 
 
@@ -30,4 +30,6 @@ Interval list used for sequencing analysis
 ***
 
 **split_analysis_intervals.R**: split whole interval list into scattered interval lists for parallel analysis
+
+<br/>
 
