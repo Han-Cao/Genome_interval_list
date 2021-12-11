@@ -3,9 +3,7 @@ Interval list used for sequencing analysis
 
 
 
-### Interval list
-
-***
+## Interval list
 
 **wgs_calling_regions.hg19.interval_list**: downloaded from gnomAD (https://storage.googleapis.com/gcp-public-data--gnomad/intervals/hg19-v0-wgs_evaluation_regions.v1.interval_list)
 
@@ -15,9 +13,7 @@ Interval list used for sequencing analysis
 
 
 
-### Analysis intervals
-
-***
+## Analysis intervals
 
 **wgs_analysis_intervals_hg19**: converted from wgs_calling_regions.hg19.interval_list
 
@@ -25,9 +21,7 @@ Interval list used for sequencing analysis
 
 
 
-### Code
-
-***
+## Code
 
 **split_analysis_intervals.R**: split whole interval list into scattered interval lists for parallel analysis
 
