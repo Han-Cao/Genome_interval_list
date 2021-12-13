@@ -1,0 +1,349 @@
+@HD	VN:1.4	SO:coordinate
+@SQ	SN:1	LN:249250621	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:1b22b98cdeb4a9304cb5d48026a85128	SP:Homo Sapiens
+@SQ	SN:2	LN:243199373	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:a0d9851da00400dec1098a9255ac712e	SP:Homo Sapiens
+@SQ	SN:3	LN:198022430	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:fdfd811849cc2fadebc929bb925902e5	SP:Homo Sapiens
+@SQ	SN:4	LN:191154276	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:23dccd106897542ad87d2765d28a19a1	SP:Homo Sapiens
+@SQ	SN:5	LN:180915260	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:0740173db9ffd264d728f32784845cd7	SP:Homo Sapiens
+@SQ	SN:6	LN:171115067	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:1d3a93a248d92a729ee764823acbbc6b	SP:Homo Sapiens
+@SQ	SN:7	LN:159138663	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:618366e953d6aaad97dbe4777c29375e	SP:Homo Sapiens
+@SQ	SN:8	LN:146364022	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:96f514a9929e410c6651697bded59aec	SP:Homo Sapiens
+@SQ	SN:9	LN:141213431	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:3e273117f15e0a400f01055d9f393768	SP:Homo Sapiens
+@SQ	SN:10	LN:135534747	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:988c28e000e84c26d552359af1ea2e1d	SP:Homo Sapiens
+@SQ	SN:11	LN:135006516	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:98c59049a2df285c76ffb1c6db8f8b96	SP:Homo Sapiens
+@SQ	SN:12	LN:133851895	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:51851ac0e1a115847ad36449b0015864	SP:Homo Sapiens
+@SQ	SN:13	LN:115169878	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:283f8d7892baa81b510a015719ca7b0b	SP:Homo Sapiens
+@SQ	SN:14	LN:107349540	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:98f3cae32b2a2e9524bc19813927542e	SP:Homo Sapiens
+@SQ	SN:15	LN:102531392	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:e5645a794a8238215b2cd77acb95a078	SP:Homo Sapiens
+@SQ	SN:16	LN:90354753	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:fc9b1a7b42b97a864f56b348b06095e6	SP:Homo Sapiens
+@SQ	SN:17	LN:81195210	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:351f64d4f4f9ddd45b35336ad97aa6de	SP:Homo Sapiens
+@SQ	SN:18	LN:78077248	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:b15d4b2d29dde9d3e4f93d1d0f2cbc9c	SP:Homo Sapiens
+@SQ	SN:19	LN:59128983	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:1aacd71f30db8e561810913e0b72636d	SP:Homo Sapiens
+@SQ	SN:20	LN:63025520	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:0dec9660ec1efaaf33281c0d5ea2560f	SP:Homo Sapiens
+@SQ	SN:21	LN:48129895	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:2979a6085bfe28e3ad6f552f361ed74d	SP:Homo Sapiens
+@SQ	SN:22	LN:51304566	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:a718acaa6135fdca8357d5bfe94211dd	SP:Homo Sapiens
+@SQ	SN:X	LN:155270560	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:7e0e2e580297b7764e31dbc80c2540dd	SP:Homo Sapiens
+@SQ	SN:Y	LN:59373566	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:1fa3474750af0948bdf97d5a0ee52e51	SP:Homo Sapiens
+@SQ	SN:MT	LN:16569	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:c68f52674c9fb33aef52dcf399755519	SP:Homo Sapiens
+@SQ	SN:GL000207.1	LN:4262	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:f3814841f1939d3ca19072d9e89f3fd7	SP:Homo Sapiens
+@SQ	SN:GL000226.1	LN:15008	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:1c1b2cd1fccbc0a99b6a447fa24d1504	SP:Homo Sapiens
+@SQ	SN:GL000229.1	LN:19913	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:d0f40ec87de311d8e715b52e4c7062e1	SP:Homo Sapiens
+@SQ	SN:GL000231.1	LN:27386	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:ba8882ce3a1efa2080e5d29b956568a4	SP:Homo Sapiens
+@SQ	SN:GL000210.1	LN:27682	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:851106a74238044126131ce2a8e5847c	SP:Homo Sapiens
+@SQ	SN:GL000239.1	LN:33824	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:99795f15702caec4fa1c4e15f8a29c07	SP:Homo Sapiens
+@SQ	SN:GL000235.1	LN:34474	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:118a25ca210cfbcdfb6c2ebb249f9680	SP:Homo Sapiens
+@SQ	SN:GL000201.1	LN:36148	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:dfb7e7ec60ffdcb85cb359ea28454ee9	SP:Homo Sapiens
+@SQ	SN:GL000247.1	LN:36422	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:7de00226bb7df1c57276ca6baabafd15	SP:Homo Sapiens
+@SQ	SN:GL000245.1	LN:36651	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:89bc61960f37d94abf0df2d481ada0ec	SP:Homo Sapiens
+@SQ	SN:GL000197.1	LN:37175	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:6f5efdd36643a9b8c8ccad6f2f1edc7b	SP:Homo Sapiens
+@SQ	SN:GL000203.1	LN:37498	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:96358c325fe0e70bee73436e8bb14dbd	SP:Homo Sapiens
+@SQ	SN:GL000246.1	LN:38154	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:e4afcd31912af9d9c2546acf1cb23af2	SP:Homo Sapiens
+@SQ	SN:GL000249.1	LN:38502	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:1d78abec37c15fe29a275eb08d5af236	SP:Homo Sapiens
+@SQ	SN:GL000196.1	LN:38914	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:d92206d1bb4c3b4019c43c0875c06dc0	SP:Homo Sapiens
+@SQ	SN:GL000248.1	LN:39786	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:5a8e43bec9be36c7b49c84d585107776	SP:Homo Sapiens
+@SQ	SN:GL000244.1	LN:39929	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:0996b4475f353ca98bacb756ac479140	SP:Homo Sapiens
+@SQ	SN:GL000238.1	LN:39939	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:131b1efc3270cc838686b54e7c34b17b	SP:Homo Sapiens
+@SQ	SN:GL000202.1	LN:40103	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:06cbf126247d89664a4faebad130fe9c	SP:Homo Sapiens
+@SQ	SN:GL000234.1	LN:40531	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:93f998536b61a56fd0ff47322a911d4b	SP:Homo Sapiens
+@SQ	SN:GL000232.1	LN:40652	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:3e06b6741061ad93a8587531307057d8	SP:Homo Sapiens
+@SQ	SN:GL000206.1	LN:41001	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:43f69e423533e948bfae5ce1d45bd3f1	SP:Homo Sapiens
+@SQ	SN:GL000240.1	LN:41933	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:445a86173da9f237d7bcf41c6cb8cc62	SP:Homo Sapiens
+@SQ	SN:GL000236.1	LN:41934	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:fdcd739913efa1fdc64b6c0cd7016779	SP:Homo Sapiens
+@SQ	SN:GL000241.1	LN:42152	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:ef4258cdc5a45c206cea8fc3e1d858cf	SP:Homo Sapiens
+@SQ	SN:GL000243.1	LN:43341	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:cc34279a7e353136741c9fce79bc4396	SP:Homo Sapiens
+@SQ	SN:GL000242.1	LN:43523	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:2f8694fc47576bc81b5fe9e7de0ba49e	SP:Homo Sapiens
+@SQ	SN:GL000230.1	LN:43691	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:b4eb71ee878d3706246b7c1dbef69299	SP:Homo Sapiens
+@SQ	SN:GL000237.1	LN:45867	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:e0c82e7751df73f4f6d0ed30cdc853c0	SP:Homo Sapiens
+@SQ	SN:GL000233.1	LN:45941	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:7fed60298a8d62ff808b74b6ce820001	SP:Homo Sapiens
+@SQ	SN:GL000204.1	LN:81310	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:efc49c871536fa8d79cb0a06fa739722	SP:Homo Sapiens
+@SQ	SN:GL000198.1	LN:90085	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:868e7784040da90d900d2d1b667a1383	SP:Homo Sapiens
+@SQ	SN:GL000208.1	LN:92689	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:aa81be49bf3fe63a79bdc6a6f279abf6	SP:Homo Sapiens
+@SQ	SN:GL000191.1	LN:106433	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:d75b436f50a8214ee9c2a51d30b2c2cc	SP:Homo Sapiens
+@SQ	SN:GL000227.1	LN:128374	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:a4aead23f8053f2655e468bcc6ecdceb	SP:Homo Sapiens
+@SQ	SN:GL000228.1	LN:129120	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:c5a17c97e2c1a0b6a9cc5a6b064b714f	SP:Homo Sapiens
+@SQ	SN:GL000214.1	LN:137718	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:46c2032c37f2ed899eb41c0473319a69	SP:Homo Sapiens
+@SQ	SN:GL000221.1	LN:155397	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:3238fb74ea87ae857f9c7508d315babb	SP:Homo Sapiens
+@SQ	SN:GL000209.1	LN:159169	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:f40598e2a5a6b26e84a3775e0d1e2c81	SP:Homo Sapiens
+@SQ	SN:GL000218.1	LN:161147	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:1d708b54644c26c7e01c2dad5426d38c	SP:Homo Sapiens
+@SQ	SN:GL000220.1	LN:161802	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:fc35de963c57bf7648429e6454f1c9db	SP:Homo Sapiens
+@SQ	SN:GL000213.1	LN:164239	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:9d424fdcc98866650b58f004080a992a	SP:Homo Sapiens
+@SQ	SN:GL000211.1	LN:166566	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:7daaa45c66b288847b9b32b964e623d3	SP:Homo Sapiens
+@SQ	SN:GL000199.1	LN:169874	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:569af3b73522fab4b40995ae4944e78e	SP:Homo Sapiens
+@SQ	SN:GL000217.1	LN:172149	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:6d243e18dea1945fb7f2517615b8f52e	SP:Homo Sapiens
+@SQ	SN:GL000216.1	LN:172294	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:642a232d91c486ac339263820aef7fe0	SP:Homo Sapiens
+@SQ	SN:GL000215.1	LN:172545	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:5eb3b418480ae67a997957c909375a73	SP:Homo Sapiens
+@SQ	SN:GL000205.1	LN:174588	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:d22441398d99caf673e9afb9a1908ec5	SP:Homo Sapiens
+@SQ	SN:GL000219.1	LN:179198	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:f977edd13bac459cb2ed4a5457dba1b3	SP:Homo Sapiens
+@SQ	SN:GL000224.1	LN:179693	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:d5b2fc04f6b41b212a4198a07f450e20	SP:Homo Sapiens
+@SQ	SN:GL000223.1	LN:180455	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:399dfa03bf32022ab52a846f7ca35b30	SP:Homo Sapiens
+@SQ	SN:GL000195.1	LN:182896	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:5d9ec007868d517e73543b005ba48535	SP:Homo Sapiens
+@SQ	SN:GL000212.1	LN:186858	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:563531689f3dbd691331fd6c5730a88b	SP:Homo Sapiens
+@SQ	SN:GL000222.1	LN:186861	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:6fe9abac455169f50470f5a6b01d0f59	SP:Homo Sapiens
+@SQ	SN:GL000200.1	LN:187035	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:75e4c8d17cd4addf3917d1703cacaf25	SP:Homo Sapiens
+@SQ	SN:GL000193.1	LN:189789	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:dbb6e8ece0b5de29da56601613007c2a	SP:Homo Sapiens
+@SQ	SN:GL000194.1	LN:191469	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:6ac8f815bf8e845bb3031b73f812c012	SP:Homo Sapiens
+@SQ	SN:GL000225.1	LN:211173	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:63945c3e6962f28ffd469719a747e73c	SP:Homo Sapiens
+@SQ	SN:GL000192.1	LN:547496	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:GRCh37	M5:325ba9e808f669dfeee210fdd7b470ac	SP:Homo Sapiens
+@SQ	SN:NC_007605	LN:171823	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:NC_007605.1	M5:6743bd63b3ff2b5b8985d8933c53290a	SP:Epstein-Barr virus
+@PG	ID:1	PN:IntervalListTools	CL:net.sf.picard.util.IntervalListTools INPUT=[N.regions.interval_list, expensive.parsed.interval_list] OUTPUT=joined.regions.interval_list ACTION=UNION    PADDING=0 UNIQUE=false SORT=true HEAD=1 SCATTER_COUNT=1 INVERT=false VERBOSITY=INFO QUIET=false VALIDATION_STRINGENCY=STRICT COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false
+@PG	ID:2	PN:IntervalListTools	CL:net.sf.picard.util.IntervalListTools INPUT=[joined.regions.interval_list, exome.evaluation.padded.interval_list] OUTPUT=whole.genome.calling.region.interval_list ACTION=SUBTRACT HEAD=1 INVERT=true    PADDING=0 UNIQUE=false SORT=true SCATTER_COUNT=1 VERBOSITY=INFO QUIET=false VALIDATION_STRINGENCY=STRICT COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false
+1	10001	177417	+	interval-1
+1	227418	267719	+	interval-2
+1	317720	471368	+	interval-3
+1	521369	2634220	+	interval-4
+1	2684221	3845268	+	interval-5
+1	3995269	13053050	+	interval-6
+1	13102999	13219912	+	interval-7
+1	13319913	13557162	+	interval-8
+1	13607163	17125658	+	interval-9
+1	17175659	29878082	+	interval-10
+1	30028083	103863906	+	interval-11
+1	103913907	120697156	+	interval-12
+1	120747157	120936695	+	interval-13
+1	121086696	121485434	+	interval-14
+1	142560148	142731022	+	interval-15_21
+1	142781023	142967761	+	interval-22_23
+1	143117762	143292816	+	interval-24_29
+1	143342817	143771002	+	interval-30_36
+1	143871003	144095783	+	interval-37_39
+1	144145784	144224481	+	interval-40
+1	144274482	144401744	+	interval-41
+1	144451745	144622413	+	interval-42
+1	144672414	144710724	+	interval-43
+1	144810725	145833118	+	interval-44
+1	145883119	146164650	+	interval-45
+1	146214651	146253299	+	interval-46
+1	146303300	148026038	+	interval-47
+1	148176039	148361358	+	interval-48
+1	148511359	148684147	+	interval-49
+1	148734148	148954460	+	interval-50
+1	149004461	149459645	+	interval-51
+1	149509646	205922707	+	interval-52
+1	206072708	206332221	+	interval-53
+1	206482222	223747846	+	interval-54
+1	223797847	235192211	+	interval-55
+1	235242212	248908210	+	interval-56
+1	249058211	249250621	+	interval-57
+2	10001	3529312	+	interval-58
+2	3579313	5018788	+	interval-59
+2	5118789	16279724	+	interval-60
+2	16329725	21153113	+	interval-61
+2	21178114	31725939	+	interval-62
+2	31726791	33092197	+	interval-63
+2	33093198	33141692	+	interval-64
+2	33142693	87668206	+	interval-65
+2	87718207	89630436	+	interval-66
+2	89830437	90321525	+	interval-67
+2	90371526	90545103	+	interval-68
+2	91595104	91664719	+	interval-69
+2	91665720	92326171	+	interval-70_81
+2	95326172	110109337	+	interval-82
+2	110251338	149690582	+	interval-83_88
+2	149790583	234003741	+	interval-89
+2	234053742	239801978	+	interval-90
+2	239831979	240784132	+	interval-91
+2	240809133	243102476	+	interval-92
+2	243152477	243199373	+	interval-93
+3	60001	66170270	+	interval-94_98
+3	66270271	90504854	+	interval-99_109
+3	93504855	194041961	+	interval-110
+3	194047252	198022430	+	interval-111
+4	10001	1423146	+	interval-112
+4	1478647	8799203	+	interval-113
+4	8818204	9274692	+	interval-114
+4	9324643	31820917	+	interval-115
+4	31837418	32834638	+	interval-116
+4	32840639	40296396	+	interval-117
+4	40297097	49338941	+	interval-118_125
+4	49488942	49632581	+	interval-126_129
+4	52660118	59739333	+	interval-130
+4	59789334	75427379	+	interval-131
+4	75452280	191154276	+	interval-132_135
+5	10001	17530657	+	interval-136
+5	17580658	46405641	+	interval-137
+5	49405642	91636128	+	interval-138
+5	91686129	138787073	+	interval-139
+5	138837074	155138727	+	interval-140
+5	155188728	180915260	+	interval-141
+6	60001	58087659	+	interval-142_192
+6	58137660	58780166	+	interval-193
+6	61880167	62128589	+	interval-194
+6	62178590	95680543	+	interval-195
+6	95830544	157559467	+	interval-196
+6	157609468	157641300	+	interval-197
+6	157691301	167942073	+	interval-198
+6	168042074	170279972	+	interval-199
+6	170329973	171115067	+	interval-200
+7	10001	232484	+	interval-201
+7	282485	50370631	+	interval-202
+7	50410632	57908811	+	interval-203_215
+7	57909812	58054331	+	interval-216_219
+7	61054332	61310513	+	interval-220_223
+7	61360514	61460465	+	interval-224
+7	61510466	61677020	+	interval-225_227
+7	61727021	61917157	+	interval-228_235
+7	61967158	74715724	+	interval-236_246
+7	74765725	100556043	+	interval-247
+7	100606044	130154523	+	interval-248
+7	130254524	139379377	+	interval-249
+7	139404378	142048195	+	interval-250_256
+7	142098196	142276197	+	interval-257_260
+7	142326198	143347897	+	interval-261_265
+7	143397898	154270634	+	interval-266_283
+7	154370635	159138663	+	interval-284
+8	10001	7474649	+	interval-285_292
+8	7524650	12091854	+	interval-293
+8	12141855	43838887	+	interval-294_300
+8	46838888	48130499	+	interval-301_302
+8	48135600	86576451	+	interval-303
+8	86726452	142766515	+	interval-304
+8	142816516	145332588	+	interval-305
+8	145432589	146364022	+	interval-306
+9	10001	39663686	+	interval-307
+9	39713687	39974796	+	interval-308
+9	40024797	40233029	+	interval-309
+9	40283030	40425834	+	interval-310
+9	40475835	40940341	+	interval-311
+9	40990342	41143214	+	interval-312
+9	41193215	41365793	+	interval-313
+9	41415794	42613955	+	interval-314
+9	42663956	43213698	+	interval-315
+9	43313699	43946569	+	interval-316
+9	43996570	44676646	+	interval-317
+9	44726647	44908293	+	interval-318
+9	44958294	45250203	+	interval-319
+9	45350204	45815521	+	interval-320
+9	45865522	46216430	+	interval-321
+9	46266431	46461039	+	interval-322
+9	46561040	47060133	+	interval-323
+9	47160134	47317679	+	interval-324
+9	65467680	65918360	+	interval-325
+9	65968361	66192215	+	interval-326
+9	66242216	66404656	+	interval-327
+9	66454657	66614195	+	interval-328_333
+9	66664196	66863343	+	interval-334_337
+9	66913344	67107834	+	interval-338
+9	67207835	67366296	+	interval-339_340
+9	67516297	67988050	+	interval-341
+9	68137999	68514181	+	interval-342_349
+9	68664182	68838946	+	interval-350_352
+9	68988947	69278385	+	interval-353_354
+9	69328386	70010542	+	interval-355
+9	70060543	70218729	+	interval-356
+9	70318730	70506535	+	interval-357
+9	70556536	70735468	+	interval-358
+9	70835469	92343416	+	interval-359
+9	92443417	92528796	+	interval-360
+9	92678797	133073060	+	interval-361
+9	133223061	137041193	+	interval-362
+9	137091194	139166997	+	interval-363
+9	139216998	141213431	+	interval-364
+10	60001	17974675	+	interval-365
+10	18024676	39154935	+	interval-366_396
+10	42354936	46426964	+	interval-397_415
+10	46476965	47429169	+	interval-416_420
+10	47529170	47792476	+	interval-421
+10	47892477	48055707	+	interval-422
+10	48105708	49095536	+	interval-423
+10	49195537	51137410	+	interval-424
+10	51187411	51398845	+	interval-425
+10	51448846	125869472	+	interval-426
+10	125919473	128616069	+	interval-427
+10	128766070	133381404	+	interval-428
+10	133431405	133677527	+	interval-429
+10	133727528	135534747	+	interval-430
+11	60001	1162759	+	interval-431
+11	1212736	50783853	+	interval-432
+11	51090854	51594205	+	interval-433
+11	54694206	69089801	+	interval-434
+11	69139802	69724695	+	interval-435
+11	69774696	87688378	+	interval-436
+11	87738379	96287584	+	interval-437
+11	96437585	135006516	+	interval-438
+12	60001	95739	+	interval-439
+12	145740	7189876	+	interval-440
+12	7239877	34856694	+	interval-441
+12	37856695	109373470	+	interval-442
+12	109423471	121965036	+	interval-443
+12	121965237	122530623	+	interval-444
+12	122580624	123928080	+	interval-445
+12	123928281	132706992	+	interval-446
+12	132806993	133851895	+	interval-447
+13	19020001	86760324	+	interval-448_449
+13	86910325	112353994	+	interval-450
+13	112503995	114326026	+	interval-451
+13	114425994	114639948	+	interval-452
+13	114739949	115169878	+	interval-453
+14	19000001	107349540	+	interval-454
+15	20000001	20894633	+	interval-455
+15	20935076	21398819	+	interval-456
+15	21885001	22212114	+	interval-457
+15	22262115	22596193	+	interval-458
+15	22646194	23514853	+	interval-459
+15	23564854	29159443	+	interval-460
+15	29209444	82829645	+	interval-461
+15	82879646	84984473	+	interval-462
+15	85034474	102531392	+	interval-463
+16	60001	8636921	+	interval-464
+16	8686922	34023150	+	interval-465_486
+16	34173151	35285801	+	interval-487_488
+16	46385802	88389383	+	interval-489_493
+16	88439384	90354753	+	interval-494
+17	1	296626	+	interval-495
+17	396627	22263006	+	interval-496_523
+17	25263007	34675848	+	interval-524_526
+17	34725849	62410760	+	interval-527
+17	62460761	77546461	+	interval-528
+17	77596462	79709049	+	interval-529
+17	79759050	81195210	+	interval-530
+18	10001	15410898	+	interval-531
+18	18510899	52059136	+	interval-532
+18	52209137	72283353	+	interval-533
+18	72333354	75721820	+	interval-534
+18	75771821	78077248	+	interval-535
+19	60001	7346004	+	interval-536
+19	7396005	8687198	+	interval-537
+19	8737199	20523415	+	interval-538
+19	20573416	24631782	+	interval-539
+19	27731783	59128983	+	interval-540
+20	60001	26319569	+	interval-541_554
+20	29419570	29652322	+	interval-555_568
+20	29803909	34897085	+	interval-569
+20	34947086	61091437	+	interval-570
+20	61141438	61213369	+	interval-571
+20	61263370	63025520	+	interval-572
+21	9411194	9595548	+	interval-573
+21	9645549	9775437	+	interval-574_575
+21	9825438	10034920	+	interval-576_578
+21	10084921	10215976	+	interval-579_581
+21	10365977	11188129	+	interval-582_595
+21	14338130	42955559	+	interval-596
+21	43005560	43226828	+	interval-597
+21	43227329	43249342	+	interval-598
+21	43250843	44632664	+	interval-599
+21	44682665	48129895	+	interval-600
+22	16050001	16697850	+	interval-601
+22	16847851	20509431	+	interval-602
+22	20609432	50364777	+	interval-603
+22	50414778	51304566	+	interval-604
+X	60001	94821	+	interval-605
+X	144822	231384	+	interval-606
+X	281385	1047557	+	interval-607
+X	1097558	1134113	+	interval-608
+X	1184114	1264234	+	interval-609
+X	1314235	2068238	+	interval-610
+X	2118239	7623882	+	interval-611
+X	7673883	10738674	+	interval-612
+X	10788675	37098256	+	interval-613
+X	37148257	49242997	+	interval-614
+X	49292998	49974173	+	interval-615
+X	50024174	52395914	+	interval-616
+X	52445915	58582012	+	interval-617
+X	61682013	76653692	+	interval-618
+X	76703693	113517668	+	interval-619
+X	113567669	115682290	+	interval-620
+X	115732291	120013235	+	interval-621
+X	120063236	143507324	+	interval-622
+X	143557325	148906424	+	interval-623
+X	148956425	149032062	+	interval-624
+X	149082063	152277099	+	interval-625
+X	152327100	155270560	+	interval-626
