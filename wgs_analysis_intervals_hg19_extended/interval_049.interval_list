@@ -86,25 +86,4 @@
 @SQ	SN:NC_007605	LN:171823	UR:http://www.broadinstitute.org/ftp/pub/seq/references/Homo_sapiens_assembly19.fasta	AS:NC_007605.1	M5:6743bd63b3ff2b5b8985d8933c53290a	SP:Epstein-Barr virus
 @PG	ID:1	PN:IntervalListTools	CL:net.sf.picard.util.IntervalListTools INPUT=[N.regions.interval_list, expensive.parsed.interval_list] OUTPUT=joined.regions.interval_list ACTION=UNION    PADDING=0 UNIQUE=false SORT=true HEAD=1 SCATTER_COUNT=1 INVERT=false VERBOSITY=INFO QUIET=false VALIDATION_STRINGENCY=STRICT COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false
 @PG	ID:2	PN:IntervalListTools	CL:net.sf.picard.util.IntervalListTools INPUT=[joined.regions.interval_list, exome.evaluation.padded.interval_list] OUTPUT=whole.genome.calling.region.interval_list ACTION=SUBTRACT HEAD=1 INVERT=true    PADDING=0 UNIQUE=false SORT=true SCATTER_COUNT=1 VERBOSITY=INFO QUIET=false VALIDATION_STRINGENCY=STRICT COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false
-X	60001	94821	+	interval-605
-X	144822	231384	+	interval-606
-X	281385	1047557	+	interval-607
-X	1097558	1134113	+	interval-608
-X	1184114	1264234	+	interval-609
-X	1314235	2068238	+	interval-610
-X	2118239	7623882	+	interval-611
-X	7673883	10738674	+	interval-612
-X	10788675	37098256	+	interval-613
-X	37148257	49242997	+	interval-614
-X	49292998	49974173	+	interval-615
-X	50024174	52395914	+	interval-616
-X	52445915	58582012	+	interval-617
-X	61682013	76653692	+	interval-618
-X	76703693	113517668	+	interval-619
-X	113567669	115682290	+	interval-620
-X	115732291	120013235	+	interval-621
-X	120063236	143507324	+	interval-622
-X	143557325	148906424	+	interval-623
-X	148956425	149032062	+	interval-624
-X	149082063	152277099	+	interval-625
-X	152327100	155270560	+	interval-626
+13	19020001	86760324	+	interval-448_449

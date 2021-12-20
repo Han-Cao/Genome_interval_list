@@ -1,5 +1,5 @@
 # Split genome into intervals for analysis
-# Usage: Rscript --vanilla split_analysis_intervals.R input_interval_list output_folder
+# Usage: Rscript --vanilla split_analysis_invertals.R input_interval_list output_folder
 
 # parse arguments
 args <- commandArgs(trailingOnly=TRUE)
@@ -44,7 +44,7 @@ for (row_to in 1:nrow(intervals)) {
     next
   }
   # output if total length > cutoff
-  else if(sum(intervals[row_from:(row_to+1), "length"] > length_cutoff)){
+  else if(sum(intervals[row_from:(row_to+1), "length"]) > length_cutoff){
     write_interval_list(intervals[row_from:row_to, 1:5], paste0(output_prefix, formatC(output_no, width=3, flag="0"), ".interval_list"), header = header)
     output_no <- output_no + 1
     row_from <- row_to + 1
