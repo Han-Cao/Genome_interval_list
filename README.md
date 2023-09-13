@@ -21,6 +21,10 @@ Interval list used for sequencing analysis
 
 **wgs_analysis_intervals_hg19_extended**: converted from wgs_calling_regions.hg19.extended.interval_list
 
+**wgs_analysis_intervals_hg38**: converted from wgs_calling_regions.hg38.interval_list
+
+**interval_list_summary.txt**: summary of interval_list, including number of intervals, total length.
+
 <br/>
 
 
