@@ -31,7 +31,7 @@ Interval list used for sequencing analysis
 
 ## Code
 
-**split_analysis_intervals.R**: split whole interval list into scattered interval lists for parallel analysis
+**split_analysis_intervals.R**: split whole interval list into scattered interval lists for parallel analysis. Compared to GATK's SplitIntervals, this script aims to limit the output interval list under a certain size (e.g., 50MB) and avoid generating interval lists covering different chromosomes. Intervals greater than the upper limit will not be split.
 
 <br/>
 
